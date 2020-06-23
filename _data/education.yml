@@ -1,13 +1,7 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
-  awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+- degree: 대학교
+  uni: 세명대학교 컴퓨터학부
+  year: 2010-02 &mdash; 2017-02
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+  summary: 컴퓨터학부에서 자료구조, 디자인 패턴 , 컴퓨터구조에 대한 강의를 이수하였습니다.
+

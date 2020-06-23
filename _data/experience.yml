@@ -1,19 +1,47 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+- company: 스쿱미디어
+  position: Back-End Developer
+  duration: 2017-09 ~ 2020-04 <span class="badge badge-info">2년 7개월</span>
+  summary: >
+            <h3>AJ 파크</h3>
+            <h3>기간 : 2017-09 ~ 2018-06 </h3>
+            AJ 파크 자동 주차장관리 시스템을 개발 및 유지 보수를 했습니다.
+            <br> 클라이언트를 위한 restful api 개발 <br> 제휴 파트너사 (관리자) 페이지 개발 및 외부 LMS 연동
+            <ul class="resume-item-list">
+            <li>주차장 공간 표기 기능 개발</li>
+            <li>LMS 외부 주차장 동기화, 모니터링 개발</li>
+            <li>파트너 사이트 유지보수 및 추가개발 진행</li>
+            <li>외부 연동 사이트에 대한 RESTFull API 개발</li>
+            <li>쿠폰 및 포인트 관리 기능 개발</li>
+            </ul>
+            <br>
+            <span class="style_techStack">JAVA</span> <span class="style_techStack">Spring</span><span class="style_techStack">Mysql</span><span class="style_techStack">javascript</span><span class="style_techStack">Jquery</span><span class="style_techStack">JSP</span>
+            <br>
+            <h3>AJ 발렛 어드민 </h3>
+            <h3>기간 : 2018-07 ~ 2018-11</h3>
+            인천 공항 발렛 관리자 페이지 개발을 했습니다. <br> 통계 페이지 및 주차 차량 모니터링 시스템 구축 <br> 자동 정산 시스템 구축 하였습니다.
+            <ul class="resume-item-list">
+            <li>인천 공항 발렛 어드민 페이지 구축</li>
+            <li>차량 입출입에 대한 통계 페이지 개발</li>
+            <li>외부 서버 동기화 모니터링 시스템 개발</li>
+            <li>일, 월별에 대한 정산 통계 시스템 개발</li>
+            <li>어드민 관리 기능 개발</li>
+            </ul>
+            <span class="style_techStack">PHP</span> <span class="style_techStack">Codeigniter</span><span class="style_techStack">Mysql</span><span class="style_techStack">javascript</span><span class="style_techStack">Jquery</span>
+            <br>
+            <h3>비트소닉</h3>
+            <h3>기간 : 2018-12 ~ 2020-04</h3>
+            비트 소닉 코인 거래소 어드민 개발<br> 비트소닉 거래소 관리자 페이지 및 스케쥴러를 개발 하였습니다.
+            <ul class="resume-item-list">
+            <li>마켓별 통계 페이지 개발 (거래량, 수수료)</li>
+            <li>트리거, 프로시저를 이용한 이벤트 페이지 개발 (일별 거래량 및 특정 거래에 대한 유저 당첨 페이지)</li>
+            <li>코인 입출금 기능 개발</li>
+            <li>원화 자동 입출금 기능 개발</li>
+            <li>거래소 코인 상장 프로세스 개발</li>
+            <li>오픈마켓 예치금 등록, 반환 기능 개발</li>
+            <li>오픈소스 DataTable 연동하여 거래소 자산관리 페이지 개발</li>
+            <li>해외 거래소를 위한 어드민 다국어 처리 개발</li>
+            <li>firebase를 이용한 간편구매 실시간 구매가 연동</li>
+            </ul>
+            <span class="style_techStack">PHP</span> <span class="style_techStack">Codeigniter</span><span class="style_techStack">Mysql</span><span class="style_techStack">javascript</span><span class="style_techStack">Jquery</span>
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
-
-
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.

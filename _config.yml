@@ -9,9 +9,9 @@ sass:
   style: compressed
 
 # Resume settings
-resume_avatar:                  "false"
+resume_avatar:                  "true"
 resume_name:                    "SeonBeen Lee"
-resume_title:                   "자기소개"
+resume_title:                   ""
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "seonbeen121@gmail.com"
@@ -23,7 +23,11 @@ resume_contact_address:         "742 Evergreen Terrace, Springfield"
 resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>새로운 것을 두려워하지 않는 개발자 이선빈입니다.</p>"
+resume_header_intro: >
+  <b>Live as if you were to die tomorrow. Learn as if you were to live forever!</b><br><b>- Mahatma Gandi</b>
+  <p>새로운 것을 두려워하지 않는 개발자 이선빈입니다. 문화와 덕질을 사랑합니다!</p>
+  어떤 배움에 있어 망설이지 않고 나아가려고 노력하고있습니다.
+  요즘에는 TDD, DDD 개발을 재미있게 공부하고있습니다.
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -40,7 +44,7 @@ resume_section_skills:          true
 resume_section_recognition:     true
 resume_section_links:           true
 resume_section_associations:    true
-# resume_section_interests:       true
+resume_section_interests:       false
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL

@@ -2,15 +2,29 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+- project: 위닥터 화상 자문 시스템
+  role: Back-End developer
+  duration: 2020-03 ~ 2020-04
+  url: http://weedoctor.co.kr
+  description: >
+              <h3>WeeDoctor</h3>
+              화상자문을 위한 의사 상담 시스템 구축
+              <ul class="resume-item-list">
+              <li>스케쥴 매칭을 위한 달력 공통 라이브러리 개발</li>
+              <li>매칭 SMS 수신 개발</li>
+              </ul>
+              <span class="style_techStack">PHP</span> <span class="style_techStack">Codeigniter</span> <span class="style_techStack">AWS</span> <span class="style_techStack">Jquery</span>
 
 # Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+- project: 카카오 날씨 채널봇 개설
+  role: Back-End developer
+  duration: 2020-05
+  url: "http://pf.kakao.com/_mhxjvxb/chat"
+  description: >
+              <h3>날씨 채널봇</h3>
+              카카오 오픈빌더, Google geocoding , Open weather api를 이용해서 날씨 채널봇을 만들었습니다.<br>
+              <ul class="resume-item-list">
+              <li>스킬서버 구현 AWS ec2 사용</li>
+              <li>Spring boot를 활용한 API 개발</li>
+              </ul>
+              <span class="style_techStack">JAVA</span> <span class="style_techStack">SpringBoot</span> <span class="style_techStack">AWS</span> <span class="style_techStack">EC2</span>

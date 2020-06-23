@@ -1,12 +1,57 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: <div class="text-md-right col-sm-12 col-md-3"><h4 style="color:gray">Communication</h4></div>
+  description: >
+    <ul class="resume-item-list">
+    <li>기획 리뷰 및 코드 리뷰에서 궁금증에 대해서 확실히 이해하고 넘어가려고 합니다.</li>
+    <li>여러사람의 의견을 주의 깊게 듣습니다.</li>
+    <li>개발에있어 의사소통을 중요시 생각합니다.</li>
+    </ul>
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: <div class="text-md-right col-sm-12 col-md-3"><h4 style="color:gray">Back-end</h4></div>
+  description: >
+                <div class="col-md-9 innerDiv">
+                <p>JAVA</p>
+                <ul class="resume-item-list">
+                <li>DTO, VO 상황에 따라 사용하는 것을 선호합니다.</li>
+                <li>관리포인트를 줄이면서 개발하기 위해 노력하고있습니다.</li>
+                <li>DDD, TDD에 따른 개발을 하고자 합니다.</li>
+                </ul>
+                <p>PHP</p>
+                <p>SpringBoot</p>
+                <p>Codeigniter</p>
+                <p>Nginx</p>
+                </div>
+
+
+
+- skill: <div class="text-md-right col-sm-12 col-md-3"><h4 style="color:gray">Front-end</h4></div>
+  description: >
+    <div class="col-md-9 innerDiv">
+      <p>ES6</p>
+      <p>Jquery</p>
+      <p>HTML/CSS</p>
+    </div>
+
+
+- skill: <div class="text-md-right col-sm-12 col-md-3"><h4 style="color:gray">Database</h4></div>
+  description: >
+    <div class="col-md-9 innerDiv">
+    <p>Mysql</p>
+    <ul class="resume-item-list">
+    <li>Mysql을 주로 사용했습니다.</li>
+    <li>확장성을 고려한 DB 설계를 하고자 노력합니다.</li>
+    <li>최대한 실행계획을 보고 쿼리를 사용하고자 합니다.</li>
+    </ul>
+    <p>Oracle</p>
+    </div>
+
+- skill: <div class="text-md-right col-sm-12 col-md-3"><h4 style="color:gray">DevOps</h4></div>
+  description: >
+    <div class="col-md-9 innerDiv">
+    AWS
+    <ul class="resume-item-list">
+    <li>ec2 사용해서 토이프로젝트 및 개발환경을 구축했습니다.</li>
+    <li>s3를 이용해 보았습니다.</li>
+    </ul>
+    </div>
