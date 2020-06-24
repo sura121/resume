@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "SeonBeen Lee"
-resume_title:                   ""
+resume_title:                   "자기소개"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "seonbeen121@gmail.com"
@@ -27,7 +27,8 @@ resume_header_intro: >
   <b>Live as if you were to die tomorrow. Learn as if you were to live forever!</b><br><b>- Mahatma Gandi</b>
   <p>새로운 것을 두려워하지 않는 개발자 이선빈입니다. 문화와 덕질을 사랑합니다!</p>
   어떤 배움에 있어 망설이지 않고 나아가려고 노력하고있습니다.
-  요즘에는 TDD, DDD 개발을 재미있게 공부하고있습니다.
+  요즘에는 TDD, DDD 개발을 재미있게 공부하고있습니다.<br><br>
+  확장성있고 유지보수가 용이한 서비스를 만들고자 노력하고있습니다. 또한 개발은 협업이라고 생각합니다. 좋은 서비스를 만들기위해서는 적극적인 커뮤니케이션이 필요하다고 생각합니다.
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -55,7 +56,7 @@ resume_social_links:
   # resume_facebook_url:          "insert Facebook URL here"
   resume_linkedin_url:          ""
   # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "http://joelglovier.com"
+  resume_website_url:           "https://sura121.github.io"
   resume_medium_url:            ""
 resume_print_social_links:      true
 

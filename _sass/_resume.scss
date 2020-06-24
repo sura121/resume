@@ -264,3 +264,46 @@ span.style_techStack {
 .innerDiv {
   margin-left: 20px;
 }
+
+.col-1 > svg {
+  width: 30px;
+  height: 30px;
+}
+
+div.row{
+  display: flex;
+  flex-wrap: wrap;
+  margin-right: -15px;
+}
+
+.col {
+  position: relative;
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+.pt-3, .py-3 {
+  padding-top: 3rem!important;
+}
+
+.pb-2, .py-2 {
+  padding-bottom: .5rem!important;
+}
+
+.text-right {
+  text-align: right!important;
+}
+
+.col-auto {
+  flex: 0 0 auto;
+  width: auto;
+  max-width: 100%;
+  margin-left: 20px;
+}
+
+.col-auto > a {
+  color: #007bff;
+  text-decoration: none;
+  background-color: transparent;
+}

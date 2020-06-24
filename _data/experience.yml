@@ -42,6 +42,7 @@
             <li>오픈소스 DataTable 연동하여 거래소 자산관리 페이지 개발</li>
             <li>해외 거래소를 위한 어드민 다국어 처리 개발</li>
             <li>firebase를 이용한 간편구매 실시간 구매가 연동</li>
+            <li>고객 관리, 고객 계좌 관리 페이지 개발</li>
             </ul>
             <span class="style_techStack">PHP</span> <span class="style_techStack">Codeigniter</span><span class="style_techStack">Mysql</span><span class="style_techStack">javascript</span><span class="style_techStack">Jquery</span>
 
