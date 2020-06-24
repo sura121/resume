@@ -12,11 +12,6 @@
   description: >
                 <div class="col-md-9 innerDiv">
                 <p>JAVA</p>
-                <ul class="resume-item-list">
-                <li>DTO, VO 상황에 따라 사용하는 것을 선호합니다.</li>
-                <li>관리포인트를 줄이면서 개발하기 위해 노력하고있습니다.</li>
-                <li>DDD, TDD에 따른 개발을 하고자 합니다.</li>
-                </ul>
                 <p>PHP</p>
                 <p>SpringBoot</p>
                 <p>Codeigniter</p>
@@ -38,11 +33,6 @@
   description: >
     <div class="col-md-9 innerDiv">
     <p>Mysql</p>
-    <ul class="resume-item-list">
-    <li>Mysql을 주로 사용했습니다.</li>
-    <li>확장성을 고려한 DB 설계를 하고자 노력합니다.</li>
-    <li>최대한 실행계획을 보고 쿼리를 사용하고자 합니다.</li>
-    </ul>
     <p>Oracle</p>
     </div>
 
